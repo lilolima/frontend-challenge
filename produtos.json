@@ -1,0 +1,22 @@
+{
+	"produtos": [{
+        "titulo": "Smartphone Moto G 5 Dual Chip Android 7.0 Tela 5 32GB 4G Câmera 13MP - Ouro",
+        "imagem": "https://images-submarino.b2w.io/produtos/01/00/item/131349/6/131349667_1GG.png",
+        "valor": 799
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G5 Plus Dual Chip Android Nougat 7.0 Tela 5,2 Octa-Core 2GHz 32GB 4G Câmera 12MP - Azul Safira",
+        "imagem": "https://images-submarino.b2w.io/produtos/01/00/item/132222/3/132222369_1GG.jpg",
+        "valor": 1049
+    },
+    {
+        "titulo": "Smartphone Moto G 5 Plus Dual Chip Android 7.0 Tela 5.2 32GB 4G Câmera 12MP - Ouro",
+        "imagem": "https://images-submarino.b2w.io/produtos/01/00/item/131348/6/131348648_1GG.png",
+        "valor": 1089
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G5S Plus Dual Chip Android 7.1.1 Nougat Tela 5.5 Snapdragon 625 32GB 4G 13MP Câmera Dupla - Platinum",
+        "imagem": "https://images-submarino.b2w.io/produtos/01/00/item/132444/7/132444738_1GG.png",
+        "valor": 1499
+    }]
+}
